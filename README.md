@@ -48,13 +48,13 @@
 <a href="https://www.tiktok.com/@monsterkkx" target="_blank"><img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
 <a href="mailto:matheustiago781@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://www.linkedin.com/in/mathiago/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.linkedin.com/in/mathiago/" target="_blank"><img src="https://img.shields.io/badge/-Tumblr-0A66C2?style=for-the-badge&logo=tumblr&logoColor=white" alt="tumblr"></a>
+<a href="https://monsterkkx.tumblr.com/" target="_blank"><img src="https://img.shields.io/badge/-Tumblr-0A66C2?style=for-the-badge&logo=tumblr&logoColor=white" alt="tumblr"></a>
 
 </div>
 
 ### Meu Site
 <div align="center">
-<a href="https://monsterkkx.tumblr.com/" target="_blank"><img src="https://img.shields.io/badge/-Monster.tumblr.com-0078D6?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Meu Site"></a>
+<a href="https://links-matheus-projects-e3fea2e0.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Monster.tumblr.com-0078D6?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Meu Site"></a>
 </div>
 
 ---
