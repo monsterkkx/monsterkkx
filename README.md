@@ -1,6 +1,6 @@
 # Perfil do GitHub de Matheus Tiago
 
-<img align="center" width=100% src="https://64.media.tumblr.com/c1d37dbba893af910026e15e4fd613de/tumblr_inline_smsph8U3811qku0ck_500.png?raw=true"/>
+<img align="center" width=100% src="https://64.media.tumblr.com/02e486dc1381b95669ac5a617db7575e/a2bcccc42b6fbef6-8d/s2048x3072/e0f1af8e317845eb60f1886f74bfab5163ecdd74.pnj?raw=true"/>
 
 
 <p align="center"> Amo criar soluções inovadoras em tecnologia. <br><br> Como desenvolvedor freelancer, combino paixão, criatividade e expertise técnica para entregar projetos únicos. De apps a sites, sou especialista em oferecer resultados de qualidade!</p>
