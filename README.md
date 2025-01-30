@@ -9,7 +9,7 @@
 
 ## 🌟 Destaques
 
-- **Desenvolvedor Freelancer:** Especialista em criação de apps sob medida para clientes.
+- **Desenvolvedor:** Especialista em criação de apps e sites sob medida para clientes.
 
 ---
 
@@ -24,13 +24,12 @@
 
 ### Bancos de Dados:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Ferramentas e Plataformas:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Wix](https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white)
 ![tumblr](https://img.shields.io/badge/tumblr-007ACC?style=for-the-badge&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/AndroidStudio-179b34?style=for-the-badge&logo=androidstudio&logoColor=green)
 
@@ -55,7 +54,7 @@
 
 ### Meu Site
 <div align="center">
-<a href="https://links-matheus-projects-e3fea2e0.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Meus.Links-0078D6?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Meu Site"></a>
+<a href="https://links-mvt.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Meus.Links-0078D6?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Meu Site"></a>
 </div>
 
 ---
